@@ -7,6 +7,10 @@
 #
 # By David Warde-Farley, March 18, 2010. Inspired by an earlier Automator
 # version by Andrew Louis.
+# 
+# A .app bundle of this script made with the wonderful Platypus 
+# ( http://www.sveinbjorn.org/platypus ) is available at 
+# http://dl.dropbox.com/u/558182/Screencap2Dropbox.zip
 
 # where to store screen captures.
 DIR="$HOME/Dropbox/Public/screencaps"
